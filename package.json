@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot-24-7",
+  "version": "1.0.0",
+  "description": "24/7 Discord Bot hosted on GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "dotenv": "^16.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
